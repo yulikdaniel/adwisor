@@ -1,4 +1,4 @@
 # adwisor
 
-Initial test commit
+Initial Petka test commit
 
