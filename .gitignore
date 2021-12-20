@@ -1,2 +1,4 @@
 test/test_peter
-peter_output.xlsx
+*.xlsx
+*.xlsx#
+.ipynb_checkpoints
