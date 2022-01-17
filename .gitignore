@@ -1,4 +1,3 @@
-test/test_peter
 *.xlsx
 *.xlsx#
-.ipynb_checkpoints/
+.ipynb_checkpoints/**
