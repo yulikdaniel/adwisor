@@ -44,8 +44,3 @@ python3 -m spacy download en_core_web_trf
 import nltk
 nltk.download("punkt")
 ```
-
-Важная информация
------------------
-
-Nет Vойне
